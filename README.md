@@ -74,6 +74,7 @@ Generated visualizations:
 results/forgetting_vs_buffer.png  
 results/bwt_vs_buffer.png
 
+![Forgetting vs Buffer Size](continual-learning-mnist/results/forgetting_vs_buffer.png)
 ---
 
 ## Project Structure
